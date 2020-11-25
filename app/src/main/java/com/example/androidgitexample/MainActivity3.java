@@ -11,6 +11,6 @@ public class MainActivity3 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main3);
 
-        findViewById(R.id.textView2);
+        findViewById(R.id.tvid);
     }
 }
